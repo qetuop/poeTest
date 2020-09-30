@@ -1,0 +1,12 @@
+venv
+.idea
+*.pyc
+__pycache__
+
+poeq
+jsonData/*
+json_bak/*
+config.json
+bak/
+data/
+*.bak
